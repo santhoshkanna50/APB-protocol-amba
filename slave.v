@@ -1,3 +1,4 @@
+'define CLK@(posedge pclk)
 module apb_slave_tb ();
   
 	reg 			pclk;
